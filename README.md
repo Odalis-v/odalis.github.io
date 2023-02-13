@@ -2,9 +2,9 @@
 
 ## Imágenes de los candidatos
 ### Aquiles Alvarez
-![Aquiles Alvarez]("C:\Users\odali\OneDrive\Pictures\Aquiles Álvarez.jpeg")
+![Aquiles Alvarez]("C:\Users\odali\OneDrive\Pictures\Aquiles Álvarez".jpeg)
 ### Cinthia Viteri
-*![Cinthia Viteri]("C:\Users\odali\OneDrive\Pictures\Cynthia Viteri.jpg")
+*![Cinthia Viteri]("C:\Users\odali\OneDrive\Pictures\Cynthia Viteri".jpg)
 
 ## Resultados 
 
