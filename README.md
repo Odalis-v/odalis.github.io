@@ -14,8 +14,3 @@ Tablas
 | Aquiles Alvarez  | 551, 996   |
 | Cinthia Viteri   | 420, 208   |
 
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
